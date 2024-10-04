@@ -9,7 +9,7 @@ City Weather Finder is a web application that allows users to search for current
 - Custom error handling and flash messages for user feedback
 - Use of EJS templates for rendering views
 - Session management with MongoDB
-- Routes for listing weather data and managing user reviews
+- Routes for listing weather data and managing user review
 
 ## Installation and Setup
 
